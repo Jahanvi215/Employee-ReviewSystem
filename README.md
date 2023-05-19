@@ -3,7 +3,7 @@
 A full stack, app used for reviewing employee.
 Hoisted Link :
 
-# By:- Atul shaw
+# By:- Jahanvi Tharu
 ## to login as an admin use happy in the navbar after login
 ### Description
 
